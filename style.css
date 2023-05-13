@@ -1,0 +1,31 @@
+html{
+    background-color: black;
+}
+
+
+h1{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    text-align: center;
+
+}
+
+#club-toss{
+    width: 100%;
+    border: 5px solid white;
+}
+
+#club-throw-picture{
+    margin: 200px;
+    width: 50%;
+    margin-left: 25%;
+
+
+}
+
+p{
+    color: white;
+    font-family: 'Libre Baskerville', serif;
+    font-size: small;
+    text-align: center;
+}
